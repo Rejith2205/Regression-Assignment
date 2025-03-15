@@ -99,6 +99,17 @@ Load the California Housing dataset using the fetch_california_housing function 
 ![image](https://github.com/user-attachments/assets/9fb37c23-4e87-4958-bde7-5b291263f986)
 ![image](https://github.com/user-attachments/assets/5ece598f-595a-4846-b61a-73abc3bbc763)
 ![image](https://github.com/user-attachments/assets/7e4fa470-5f83-4e9b-8b93-ae626be49ff8)
+![image](https://github.com/user-attachments/assets/f363a0f6-f812-4f94-8119-17214109a515)
+![image](https://github.com/user-attachments/assets/1649d4ac-afb2-4c4d-aa7e-17b5179d244d)
+
+![image](https://github.com/user-attachments/assets/e6c01323-1e2a-4c33-b41f-f0832cd3ef37)
+![image](https://github.com/user-attachments/assets/f3cecc4c-f7b9-4277-9d00-5a17901858d6)
+![image](https://github.com/user-attachments/assets/5b11da6a-5281-412b-99c5-0973a3695a1c)
+![image](https://github.com/user-attachments/assets/a88caf53-0a0d-4957-96af-14deb3232e4d)
+![image](https://github.com/user-attachments/assets/05bbdcf4-9cde-44ad-9df0-35e61b1593d1)
+![image](https://github.com/user-attachments/assets/5b19916c-2aa3-4337-a34a-3915cd837218)
+![image](https://github.com/user-attachments/assets/94307654-3706-4b37-b70f-09f1592c50d6)
+![image](https://github.com/user-attachments/assets/7f57fdf4-ad01-446c-b535-64541bbaa257)
 
 
 
