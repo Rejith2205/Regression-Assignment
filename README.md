@@ -110,6 +110,14 @@ Load the California Housing dataset using the fetch_california_housing function 
 ![image](https://github.com/user-attachments/assets/5b19916c-2aa3-4337-a34a-3915cd837218)
 ![image](https://github.com/user-attachments/assets/94307654-3706-4b37-b70f-09f1592c50d6)
 ![image](https://github.com/user-attachments/assets/7f57fdf4-ad01-446c-b535-64541bbaa257)
+![image](https://github.com/user-attachments/assets/f0dda268-0be2-4cde-a3a5-85154113f5c5)
+![image](https://github.com/user-attachments/assets/ee7a8b7d-9a77-4705-97fd-86499423f8c4)
+![image](https://github.com/user-attachments/assets/eb7d3917-67d8-41c1-8f77-a3269238d165)
+![image](https://github.com/user-attachments/assets/e07bef79-61eb-4d42-a351-76d448d727e9)
+![image](https://github.com/user-attachments/assets/e9d042f0-ea54-423c-9937-8bfb8dac8417)
+![image](https://github.com/user-attachments/assets/72dbcb63-3125-4f09-a69d-37b424f94306)
+![image](https://github.com/user-attachments/assets/f37ed318-c2df-4544-96be-b8b657826d36)
+![image](https://github.com/user-attachments/assets/400f74cb-eac5-451b-9f9b-3d1bc5e29d7f)
 
 
 
