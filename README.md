@@ -36,6 +36,16 @@ Key Components to be Fulfilled:
 ■	The best-performing algorithm with justification 
 ■	The worst-performing algorithm with reasoning  
 
+# "California Housing" Supervised Learning -Regression Evaluation
+
+***Import Libraries***
+
+![image](https://github.com/user-attachments/assets/16871e51-dd13-4cdc-993a-8bc0db9ae7e8)  
+# ***1.	Loading and Preprocessing*** 
+
+***Loading and Preprocessing--
+Load the California Housing dataset using the fetch_california_housing function from sklearn***
+
 
 
 
